@@ -5,6 +5,7 @@ body {
   align-items: center;
   flex-direction: column;
   height: 100vh;
+  overflow-y: hidden;
 }
 button {
   margin-top: 16px;
@@ -20,6 +21,13 @@ button {
   width: 100%;
   outline: none;
 }
+
+span {
+  font-size: 1.7rem;
+  margin-bottom: 15px;
+  color: #858585;
+}
+
 input {
   border: 1px solid #00d1b2;
   line-height: 1.5rem;
