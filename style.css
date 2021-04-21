@@ -57,7 +57,7 @@ button:hover {
 button:active {
   background-color: #00b89c;
 }
-.form {
+.box {
   background-color: #fff;
   border-radius: 6px;
   box-shadow: 0 0.5em 1em -0.125em rgb(10 10 10 / 10%),
