@@ -1,5 +1,5 @@
 {
-  "name": "cypress",
+  "name": "myfirsttest",
   "version": "1.0.0",
   "description": "Mi primer test con Cypress",
   "main": "./src/main.js",
